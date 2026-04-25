@@ -1,70 +1,85 @@
-<div style="background-color: black; color: white; padding: 10;">
-#👋 Olá! Eu sou Filipe Silva
-
-Sou um apaixonado por tecnologia, desenvolvedor em formação com foco em **C#**, **PHP**, e **bancos de dados** como **MySQL** e **SQL Server**. Sempre em busca de novos desafios e aprendizados, acredito que a codificação pode transformar ideias em realidades que impactam o mundo.
-
-- 🖥️ Cursando Análise e Desenvolvimento de Sistemas - Estácio de Sá
-- 💡 Com boas ideias e dedicação, acredito que podemos transformar o mundo
-- 🎓 Certificado em C#, SQL Server
-- 📚 Atualmente estudando PHP, MySQL
-
-## Status
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/filipe-csilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-csilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-csilva&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">
+  <h1 style="color: #00ff88;">👋 Olá! Eu sou Filipe Silva</h1>
+  <p>Transformando linhas de código em soluções que impactam o mundo 🌍</p>
 </div>
+
 <br>
-    
-<img align="right" alt="Lipe-pic" height="150" style="border-radius:50;" src="hero_12_img.png?width=676&height=676">
- 
-## Skills
-<div style="display: inline_block">
-  <img align="center" alt="Lipe-Csharp" height="50" width="50" src="https://skillicons.dev/icons?i=cs">
-  <img align="center" alt="Lipe-Csharp" height="50" width="50" src="https://skillicons.dev/icons?i=dotnet">
-  <img align="center" alt="Lipe-MSqlServer" height="50" width="50" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
-  <img align="center" alt="Lipe-Csharp" height="50" width="50" src="https://skillicons.dev/icons?i=mysql">
-  <!--<img align="center" alt="Lipe-PHP" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg">
-  <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
+
+## 📌 Sobre mim
+
+- 🎓 **Cursando** Análise e Desenvolvimento de Sistemas - Estácio de Sá
+- 💡 **Filosofia:** Grandes ideias + dedicação = transformação real
+- 🏅 **Certificações:** C# e SQL Server
+- 📚 **Atualmente estudando:** PHP, MySQL e boas práticas backend
+- 🎯 **Objetivo 2026:** Conseguir minha primeira oportunidade como desenvolvedor júnior
+
+<br>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-csilva&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-csilva&layout=compact&langs_count=7&theme=aura"/>
 </div>
-<!--<h2>Front-End</h2>
-<div style="display: inline_block">
-  <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  <h2>Estudando</h2>
-<div style="display: inline_block"><!--<br>-->
-  <!--<img align="center" alt="Lipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
-  <!--<img align="center" alt="Lipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lipe-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Lipe-Java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <!--<img align="center" alt="Lipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Lipe-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Lipe-MSqlServer" height="30" width="30" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
-</div>-->
-<div> 
-  <h2>💬 Onde me encontrar</h2>
-  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
-  <a href="https://instagram.com/filipeleasing/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<!--<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
-  <a href="https://discord.gg/FXjhvbCcrQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:filipepaulocs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/filipepaulocs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <p>Sinta-se à vontade para me contatar sobre oportunidades de desenvolvimento, colaboração em projetos ou para uma conversa sobre tecnologia!</p>
- 
-  <h2>Contribuições</h2>
-  
-  <picture>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="50">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50">
+  <!-- <img src="https://skillicons.dev/icons?i=php" height="50"> -->
+  <!-- <img src="https://skillicons.dev/icons?i=js" height="50"> -->
+  <!-- <img src="https://skillicons.dev/icons?i=html" height="50"> -->
+  <!-- <img src="https://skillicons.dev/icons?i=css" height="50"> -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="50">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50">
+</p>
+
+<!-- ## 📖 Estudando agora
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="50">
+  <img src="https://skillicons.dev/icons?i=ts" height="50">
+  <img src="https://skillicons.dev/icons?i=java" height="50">
+</p>
+
+<br> -->
+
+## 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://instagram.com/filipeleasing/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/FXjhvbCcrQ" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:filipepaulocs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/filipepaulocs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<br>
+
+<p align="center">✨ Aberto a oportunidades, networking e colaborações em projetos ✨</p>
+
+<br>
+
+## 🐍 Minhas contribuições
+
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
-  </picture>
- 
+</picture>
+
+<br>
+
+<div align="center">
+  <p><i>“Acredite nas suas ideias e dedique-se — o código é a ponte entre o sonho e a realidade.”</i></p>
+  <p>⭐ Se gostou do meu perfil, deixe uma estrela nos repositórios! ⭐</p>
 </div>
-</div>
-
-
-

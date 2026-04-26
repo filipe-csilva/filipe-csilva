@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #00ff88;">👋 Olá! Eu sou Filipe Silva</h1>
+  <h1 style="color: #00ff88;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Olá! Eu sou Filipe Silva</h1>
   <p>Transformando linhas de código em soluções que impactam o mundo 🌍</p>
 </div>
 
@@ -89,4 +89,5 @@
 <div align="center">
   <p><i>“Acredite nas suas ideias e dedique-se — o código é a ponte entre o sonho e a realidade.”</i></p>
   <p>⭐ Se gostou do meu perfil, deixe uma estrela nos repositórios! ⭐</p>
+  <img src="https://komarev.com/ghpvc/?username=filipe-csilva&color=800080&style=flat-square&label=👀+Visualizações " alt="contador">
 </div>

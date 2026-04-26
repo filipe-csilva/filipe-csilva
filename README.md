@@ -15,10 +15,12 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h2>📊 GitHub Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-csilva&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-csilva&layout=compact&langs_count=7&theme=aura"/>
+</div>
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=filipe-csilva&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-csilva&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <br>
@@ -64,6 +66,7 @@
 </p>
 
 <br>
+<br>
 
 <p align="center">✨ Aberto a oportunidades, networking e colaborações em projetos ✨</p>
 
@@ -71,11 +74,13 @@
 
 ## 🐍 Minhas contribuições
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <br>
 

@@ -83,6 +83,8 @@
 </div>
 
 <br>
+<br>
+<br>
 
 <div align="center">
   <p><i>“Acredite nas suas ideias e dedique-se — o código é a ponte entre o sonho e a realidade.”</i></p>

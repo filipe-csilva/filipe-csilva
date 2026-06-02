@@ -1,94 +1,203 @@
 <div align="center">
-  <h1 style="color: #00ff88;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Olá! Eu sou Filipe Silva</h1>
-  <p>Transformando linhas de código em soluções que impactam o mundo 🌍</p>
-</div>
+
+# 👋 Olá, eu sou Filipe Silva
+
+### Desenvolvedor .NET | ASP.NET Core | Blazor | SQL Server | PostgreSQL
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+.NET;Backend+com+ASP.NET+Core;Blazor+%7C+SQL+Server+%7C+PostgreSQL;PHP+%7C+Laravel;Sempre+aprendendo+e+evoluindo;Bem-vindo+ao+meu+GitHub!" />
 
 <br>
 
-## 📌 Sobre mim
-
-- 🎓 **Cursando** Análise e Desenvolvimento de Sistemas - Estácio de Sá
-- 💡 **Filosofia:** Grandes ideias + dedicação = transformação real
-- 🏅 **Certificações:** C# e SQL Server
-- 📚 **Atualmente estudando:** PHP, MySQL e boas práticas backend
-- 🎯 **Objetivo 2026:** Conseguir minha primeira oportunidade como desenvolvedor júnior
-
-<br>
-
-<div align="left">
-  <h2>📊 GitHub Stats</h2>
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-silva&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-csilva&layout=compact&langs_count=7&theme=aura"/>
-  
-</div>
-
-<br>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="50">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50">
-  <!-- <img src="https://skillicons.dev/icons?i=php" height="50"> -->
-  <!-- <img src="https://skillicons.dev/icons?i=js" height="50"> -->
-  <!-- <img src="https://skillicons.dev/icons?i=html" height="50"> -->
-  <!-- <img src="https://skillicons.dev/icons?i=css" height="50"> -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="50">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50">
+<p>
+  <img height="25em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img height="24.1em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img height="25em" src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white">
+  <img height="24em" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img height="25em" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img height="25em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
-<!-- ## 📖 Estudando agora
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="50">
-  <img src="https://skillicons.dev/icons?i=ts" height="50">
-  <img src="https://skillicons.dev/icons?i=java" height="50">
-</p>
-
-<br> -->
-
-## 📫 Onde me encontrar
-
-<p align="left">
-  <a href="https://instagram.com/filipeleasing/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.gg/FXjhvbCcrQ" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:filipepaulocs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/filipepaulocs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<br>
-<br>
-
-<p align="center">✨ Aberto a oportunidades, networking e colaborações em projetos ✨</p>
-
-<br>
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
-<br>
-<br>
-<br>
+---
+
+## 🚀 Sobre Mim
+
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+
+💻 Desenvolvedor focado em Backend, apaixonado por tecnologia e por transformar ideias em soluções reais.
+
+### Atualmente trabalhando com:
+
+- ASP.NET Core
+- Blazor Server
+- Entity Framework Core
+- SQL Server
+- PostgreSQL
+- PHP
+- APIs REST
+- Autenticação JWT
+
+### Estudando atualmente:
+
+- Clean Architecture
+- Design Patterns
+- Laravel
+- Arquitetura de Software
+- Boas práticas Backend
+- Microsserviços
+
+🎯 Buscando oportunidades como **Desenvolvedor .NET Júnior**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <p><i>“Acredite nas suas ideias e dedique-se — o código é a ponte entre o sonho e a realidade.”</i></p>
-  <p>⭐ Se gostou do meu perfil, deixe uma estrela nos repositórios! ⭐</p>
-  <img src="https://komarev.com/ghpvc/?username=filipe-csilva&color=800080&style=flat-square&label=👀+Visualizações " alt="contador">
+
+<img  height="40em"  src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,postgres,bootstrap,html,css,git,github,visualstudio,vscode" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-csilva&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-csilva&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=filipe-csilva&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=filipe-csilva&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📋 Sistema de Gestão Empresarial
+
+Sistema desenvolvido em Blazor Server com:
+
+- Controle de usuários
+- Controle de permissões
+- Cadastro de clientes
+- Autenticação JWT
+- SQL Server
+- Entity Framework Core
+
+---
+
+### 👥 Sistema de Cadastro de Clientes
+
+Aplicação completa contendo:
+
+- Pessoa Física e Jurídica
+- Consulta automática de CEP
+- Endereços
+- Telefones
+- Tipos de clientes
+- Integração com APIs externas
+
+---
+
+### 🎬 Controle de Séries
+
+Projeto desenvolvido em PHP para gerenciamento de séries e episódios.
+
+**Tecnologias**
+
+- PHP
+- MySQL
+- Bootstrap
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=filipe-csilva&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🏅 Certificações
+
+- ✔️ Certificação em C#
+- ✔️ Certificação em SQL Server
+
+---
+
+## 📫 Onde me Encontrar
+
+<div align="center">
+
+<a href="mailto:filipepaulocs@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/filipepaulocs">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/filipeleasing">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://discord.gg/FXjhvbCcrQ">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Filosofia
+
+> "A evolução acontece uma linha de código por vez."
+
+✨ Aberto para oportunidades, networking e colaboração em projetos.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=filipe-csilva&color=blueviolet&style=for-the-badge&label=VISITANTES"/>
+
 </div>

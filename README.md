@@ -192,7 +192,7 @@ Projeto desenvolvido em PHP para gerenciamento de séries e episódios.
 
 ## 💡 Filosofia
 
-> "A evolução acontece uma linha de código por vez."
+"A evolução acontece uma linha de código por vez."
 
 ✨ Aberto para oportunidades, networking e colaboração em projetos.
 
